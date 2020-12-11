@@ -1,2 +1,2 @@
-# EtecCT---TPA
+# EtecCT-TPA
 Diretório dos Exercícios Desenvolvidos
